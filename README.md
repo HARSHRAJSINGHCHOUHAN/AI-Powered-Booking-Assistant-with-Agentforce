@@ -9,3 +9,6 @@ uct/service recommendations and booking assistance.
 Skills i will gain through this agent-force
 
 Artificial Intelligence and Machine Learning Generative Artificial Intelligence
+
+![image](https://github.com/user-attachments/assets/a624a80c-827d-41bd-81a8-c7d92279bfa1)
+
