@@ -5,3 +5,7 @@ uct/service recommendations and booking assistance.
   Enhanced user experience by creating a conversational flow with Agentforce Flow Builder, improving response time and
  customer satisfaction.
  Technologies Used: Salesforce Agentforce, Salesforce Flow Builder, Live Chat Widget, Apex, Service Console.
+
+Skills i will gain through this agent-force
+
+Artificial Intelligence and Machine Learning Generative Artificial Intelligence
